@@ -10320,3 +10320,4 @@
 .capstone/share/jupyter/kernels/python3/logo-32x32.png
 .capstone/share/jupyter/kernels/python3/logo-64x64.png
 .capstone/share/man/man1/ipython.1.gz
+.vscode/settings.json
