@@ -1,19 +1,16 @@
-Post Office,Pincode,Latitude,Longitude
+Neighbourhood,Pincode,Latitude,Longitude
 "A F Station Yelahanka,BSF Campus Yelahanka",560063,13.1290872,77.6142258
 Adugodi,560030,12.9441502,77.607623
 "Agara,Koramangala I Block,Koramangala,St. John's Medical College",560034,12.9261382,77.6221091
 Agram,560007,12.9579166,77.6309117
 "Amruthahalli,Byatarayanapura,Kodigehalli,Sahakaranagar P.O",560092,13.0641037,77.5931209
 "Anandnagar  (Bangalore),H.A. Farm,Hebbal Kempapura",560024,13.0487446,77.5923297
-"Anekal,Anekalbazar,Bestamaranahalli,Indalavadi,Marsur,Samandur,Sidihoskote,Thammanayakanahalli,Vanakanahalli",562106,12.7226855,77.6765184
 "Arabic College,Nagawara,Venkateshapura",560045,13.0262152,77.6199836
 "Ashoknagar  (Bangalore),Banashankari,Dasarahalli(Srinagar),State Bank Of Mysore Colony",560050,12.9353067,77.5585308
-"Attibele,Bidaraguppe,Mayasandra,Neralur,Yadavanahalli",562107,12.7592186,77.7337628
 "Attur,CRPF Campus Yelahanka,Jakkur,Rajanakunte,Singanayakanahalli,Yelahanka,Yelahanka Satellite Town",560064,13.10197,77.5863591
 "Austin Town,Viveknagar  (Bangalore)",560047,12.9536792,77.6176248
 "B Sk II Stage,Jayanagar West,Padmanabhnagar,Tyagrajnagar",560070,12.9149298,77.5634899
 "Bagalgunte,Chikkabidarkal,Nagasandra  (Bangalore),Nelakadiranahalli",560073,13.049621,77.4941462
-"Bagalur  (Bangalore),Bandikodigehalli,Doddagubbi,Kannur",562149,13.1195105,77.678614
 "Banashankari III Stage,Byatarayanapura,Girinagar  (Bangalore),Hosakerehalli,Kathriguppe",560085,12.9306048,77.5433739
 "Banaswadi,Horamavu,Jalavayuvihar,Kalyananagar",560043,13.0206268,77.6478852
 "Bangalore Bazaar,Bangalore G.P.O.,Cubban Road,Dr. Ambedkar Veedhi,HighCourt,Legislators Home,Mahatma Gandhi Road,Rajbhavan  (Bangalore),Vidhana Soudha",560001,12.9765944,77.5992708
@@ -28,20 +25,17 @@ Bangalore International Airport,560300,13.197984,77.7001823
 "Begur,Bommanahalli  (Bangalore),Hongasandra,Madivala",560068,12.8892684,77.63991
 "Bellandur,Panathur",560103,12.9298689,77.6848366
 Benson Town,560046,13.0011645,77.5995482
-"Bettahalsur,Chikkajala,Doddajala,Hunasamaranahalli,Tarahunise,Vidyanagara",562157,13.1725508,77.6307018
 "Bhattarahalli,Bidrahalli,Mundur,Thambuchetty palya,Virgonagar",560049,13.0222936,77.7132065
 "Bnagalore Viswavidalaya,Mallathahalli,Ullalu Upanagara",560056,12.9514678,77.492145
 Bolare,560082,12.7930129,77.5051501
 "Bommasandra Industrial Estate,Chandapura,Hebbagodi,Muthanallur",560099,12.8124199,77.6940315
 C.V.Raman Nagar,560093,12.9858672,77.6713031
 Carmelaram,560035,12.9048022,77.6821069
-Chamarajasagara,562120,12.8788123,77.1715228
 Chamrajpet  (Bangalore),560018,12.9569886,77.5637328
 "Chandra Lay Out,Vijayanagar East,Vijayanagar  (Bangalore)",560040,12.9680322,77.5304726
 Chickpet,560053,12.9693159,77.5730698
 "Chikkabettahalli,Vidyaranyapura",560097,13.0809029,77.5564981
 "Chikkalasandra,Subramanyapura",560061,12.9037254,77.5376389
-"Chikkanahalli,Chunchanakuppe,Kadabagere,Tavarekere  (Bangalore)",562130,12.9459719,77.3898602
 Chudenapura,560060,12.9104743,77.4841775
 "CMP Centre And School,Museum Road,Richmond Town",560025,12.9662156,77.6067998
 "Deepanjalinagar,Governmemnt Electric Factory",560026,12.9565222,77.5483533
@@ -51,7 +45,6 @@ Chudenapura,560060,12.9104743,77.4841775
 "Doddakallasandra,Konanakunte,Tataguni",560062,12.8833957,77.5485936
 "Doddanekkundi,Kundalahalli,Marathahalli Colony,Rameshnagar,Yemalur",560037,12.9566294,77.7046823
 Domlur,560071,12.9532958,77.6408123
-"Dommasandra,Handenahalli,Kugur,Sarjapura",562125,12.8613691,77.7866469
 "Doorvaninagar,Krishnarajapuram R S,Ramamurthy Nagar",560016,13.0165929,77.6803969
 "Dr. Shivarama Karanth Nagar,Kothanur",560077,13.0639539,77.6503609
 Electronics City,560100,12.8498481,77.6544856
